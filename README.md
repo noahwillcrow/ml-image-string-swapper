@@ -1,0 +1,2 @@
+# ml-image-string-swapper
+A pet project idea I want to work on. The idea is to leverage some form of pre-existing image reading software that will put a bounding box around text and then give me its guess as to the content of the text in an image, then give the algorithm another string to replace a given block of text with, and the algorithm will spit out an image that looks similar but with a string on it that should closely match the text styling of the original.
